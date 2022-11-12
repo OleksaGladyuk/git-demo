@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="mc.ui.settings.version.5.5.2">
+		<section name="root">
+			<section name="com.jrockit.mc.console.ui.help_GarbageCollectorG1 Young Generation">
+				<section name="hidden_columns">
+					<item value="false" key="name"/>
+					<item value="false" key="update"/>
+					<item value="false" key="description"/>
+					<item value="false" key="type"/>
+					<item value="false" key="value"/>
+				</section>
+				<section name="column_widths">
+					<item value="0" key="name"/>
+					<item value="0" key="update"/>
+					<item value="0" key="description"/>
+					<item value="0" key="type"/>
+					<item value="0" key="value"/>
+				</section>
+			</section>
+			<section name="com.jrockit.mc.console.ui.help_GarbageCollector">
+			</section>
+			<section name="serverInformationSectionPart">
+				<section name="hidden_columns">
+					<item value="false" key="category"/>
+					<item value="false" key="value"/>
+				</section>
+				<section name="column_widths">
+					<item value="0" key="category"/>
+					<item value="0" key="value"/>
+				</section>
+			</section>
+			<section name="console.memorypools">
+				<section name="AllPoolsContentProvider_FIELD_POOL_TYPE">
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllPoolsContentProvider_FIELD_POOL_CUR_USED">
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllPoolsContentProvider_FIELD_POOL_NAME">
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllPoolsContentProvider_FIELD_POOL_PEAK_USED">
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllPoolsContentProvider_FIELD_POOL_PEAK_MAX">
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllPoolsContentProvider_FIELD_POOL_CUR_MAX">
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllPoolsContentProvider_FIELD_POOL_CUR_USAGE">
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+			</section>
+			<section name="console.threads">
+				<section name="AllThreadsContentProvider_FIELD_WAITED_COUNT">
+					<section name="visible">
+						<item value="false" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="9" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="70" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="false" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllThreadsContentProvider_FIELD_CPU_TIME">
+					<section name="visible">
+						<item value="true" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="11" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="95" key="thevalue"/>
+					</section>
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="false" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="false" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllThreadsContentProvider_FIELD_WAITED_TIME">
+					<section name="visible">
+						<item value="false" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="10" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="80" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="false" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllThreadsContentProvider_FIELD_IS_SUSPENDED">
+					<section name="visible">
+						<item value="false" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="10" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="80" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllThreadsContentProvider_FIELD_LOCK_OWNER_ID">
+					<section name="visible">
+						<item value="false" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="10" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="90" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllThreadsContentProvider_FIELD_IS_NATIVE">
+					<section name="visible">
+						<item value="false" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="10" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="60" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllThreadsContentProvider_FIELD_BLOCKED_COUNT">
+					<section name="visible">
+						<item value="true" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="9" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="70" key="thevalue"/>
+					</section>
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="false" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="false" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllThreadsContentProvider_FIELD_THREAD_NAME">
+					<section name="visible">
+						<item value="true" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="20" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="200" key="thevalue"/>
+					</section>
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="true" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllThreadsContentProvider_FIELD_IS_DEADLOCKED">
+					<section name="visible">
+						<item value="true" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="9" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="75" key="thevalue"/>
+					</section>
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="true" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllThreadsContentProvider_FIELD_ALLOCATED_BYTES">
+					<section name="visible">
+						<item value="true" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="10" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="80" key="thevalue"/>
+					</section>
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="false" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="false" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllThreadsContentProvider_FIELD_BLOCKED_TIME">
+					<section name="visible">
+						<item value="false" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="10" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="80" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="false" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllThreadsContentProvider_FIELD_LOCK_NAME">
+					<section name="visible">
+						<item value="false" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="20" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="200" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllThreadsContentProvider_FIELD_LOCK_OWNER_NAME">
+					<section name="visible">
+						<item value="false" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="20" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="200" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllThreadsContentProvider_FIELD_THREAD_ID">
+					<section name="visible">
+						<item value="false" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="10" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="80" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+				<section name="AllThreadsContentProvider_FIELD_THREAD_STATE">
+					<section name="visible">
+						<item value="true" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="10" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="90" key="thevalue"/>
+					</section>
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="true" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+			</section>
+			<section name="system.properties">
+				<section name="SystemPropertiesProvider_FIELD_PROPERTY_KEY">
+					<section name="visible">
+						<item value="true" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="40" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="200" key="thevalue"/>
+					</section>
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="false" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="false" key="thevalue"/>
+					</section>
+				</section>
+				<section name="SystemPropertiesProvider_FIELD_PROPERTY_VALUE">
+					<section name="visible">
+						<item value="true" key="thevalue"/>
+					</section>
+					<section name="widthweight">
+						<item value="100" key="thevalue"/>
+					</section>
+					<section name="width">
+						<item value="200" key="thevalue"/>
+					</section>
+					<section name="VIEWER_SORT_ORDER_ASCENDING">
+						<item value="true" key="thevalue"/>
+					</section>
+					<section name="sortorder">
+						<item value="true" key="thevalue"/>
+					</section>
+				</section>
+			</section>
+			<section name="com.jrockit.mc.console.ui.JVMStatisticsSectionPart">
+				<item value="name" key="sort_column"/>
+				<item value="false" key="sort_descending"/>
+				<section name="hidden_columns">
+					<item value="false" key="name"/>
+					<item value="true" key="update"/>
+					<item value="false" key="description"/>
+					<item value="false" key="objectName"/>
+					<item value="true" key="type"/>
+					<item value="false" key="value"/>
+				</section>
+				<section name="column_widths">
+					<item value="0" key="name"/>
+					<item value="0" key="objectName"/>
+					<item value="0" key="description"/>
+					<item value="80" key="update"/>
+					<item value="100" key="type"/>
+					<item value="0" key="value"/>
+				</section>
+			</section>
+			<section name="com.jrockit.mc.console.ui.help_HeapHistogram">
+				<item value="size" key="sort_column"/>
+				<item value="true" key="sort_descending"/>
+				<section name="hidden_columns">
+					<item value="false" key="size"/>
+					<item value="false" key="name"/>
+					<item value="false" key="count"/>
+					<item value="false" key="delta"/>
+				</section>
+				<section name="column_widths">
+					<item value="0" key="size"/>
+					<item value="0" key="name"/>
+					<item value="0" key="count"/>
+					<item value="0" key="delta"/>
+				</section>
+			</section>
+			<section name="com.jrockit.mc.console.ui.help_GarbageCollectorG1 Old Generation">
+				<section name="hidden_columns">
+					<item value="false" key="name"/>
+					<item value="false" key="update"/>
+					<item value="false" key="description"/>
+					<item value="false" key="type"/>
+					<item value="false" key="value"/>
+				</section>
+				<section name="column_widths">
+					<item value="0" key="name"/>
+					<item value="0" key="update"/>
+					<item value="0" key="description"/>
+					<item value="0" key="type"/>
+					<item value="0" key="value"/>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>

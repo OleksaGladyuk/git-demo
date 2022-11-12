@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="mc.ui.settings.version.5.5.2">
+		<section name="root">
+			<section name="execute_diagnostic_form">
+				<item value="name" key="sort_column"/>
+				<section name="hidden_columns">
+					<item value="true" key="name"/>
+					<item value="true" key="type"/>
+				</section>
+				<section name="column_widths">
+					<item value="200" key="name"/>
+					<item value="400" key="description"/>
+					<item value="150" key="type"/>
+					<item value="200" key="value"/>
+				</section>
+				<section name="invocator_builder">
+					<section name="attributes">
+						<section name="hidden_columns">
+							<item value="true" key="name"/>
+							<item value="false" key="description"/>
+							<item value="true" key="type"/>
+							<item value="false" key="value"/>
+						</section>
+						<section name="column_widths">
+							<item value="200" key="name"/>
+							<item value="0" key="description"/>
+							<item value="150" key="type"/>
+							<item value="0" key="value"/>
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>

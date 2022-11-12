@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/myrepo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/arithmetic-expressions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/average" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/contact-book" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/cycle-swap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/decrementing-carousel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/decrementing-carousel-with-limit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/electronic-watch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/figures" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/figures-extra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/figures-extra2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/figures-extra3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/figures2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/go-dutch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/gradually-decreasing-carousel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/halving-carousel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/line-intersection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/local-maxima-remove" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/max" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/max-in-seq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/meet-a-stranger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/meet-an-agent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/meet-autocode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/meet-strangers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/multiply-matrices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/pizza-split" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/quadratic-equation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/segments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/snail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/spiral" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/sprint-planning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/sum-of-even-numbers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/sum-of-previous" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/task-carousel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/transpose-matrix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/transpose-matrix1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/triangle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-demo" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+{"reason":"Push all on [com.intellij.openapi.roots.impl.JavaLanguageLevelPusher@66a73c76]","startTime":"2022-08-23T14:53:24.5056302+03:00[Europe/Helsinki]","duration":464254700,"isCancelled":false}
+{"reason":"Push on VFS changes","startTime":"2022-08-23T14:53:26.8758056+03:00[Europe/Helsinki]","duration":99600,"isCancelled":false}
+{"reason":"Push on VFS changes","startTime":"2022-08-23T15:10:45.1530364+03:00[Europe/Helsinki]","duration":84700,"isCancelled":false}
+{"reason":"Push on VFS changes","startTime":"2022-08-23T15:45:38.0789419+03:00[Europe/Helsinki]","duration":1002200,"isCancelled":false}

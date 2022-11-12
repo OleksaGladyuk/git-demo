@@ -1,0 +1,288 @@
+{
+  "appInfo" : {
+    "build" : "221.5921.22",
+    "buildDate" : "2022-06-21T07:07:53.802Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2022-08-16T12:07:44.2687765Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.15 11.0.15+10-b2043.56"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 794820608,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "transpose-matrix",
+    "times" : {
+      "indexingReason" : "changes in: \"Module 'transpose-matrix-skeleton' (transpose-matrix)\", \"JDK 11\", \"Library Maven: org.junit.jupiter:junit-jupiter:5.7.1\", \"Library Maven: org.junit.jupiter:junit-jupiter-api:5.7.1\", \"Library Maven: org.apiguardian:apiguardian-api:1.1.0\", \"Library Maven: org.opentest4j:opentest4j:1.2.0\", \"Library Maven: org.junit.platform:junit-platform-commons:1.7.1\", \"Library Maven: org.junit.jupiter:junit-jupiter-params:5.7.1\", \"Library Maven: org.junit.jupiter:junit-jupiter-engine:5.7.1\", \"Library Maven: org.junit.platform:junit-platform-engine:1.7.1\"",
+      "scanningType" : "PARTIAL",
+      "totalUpdatingTime" : 1386360200,
+      "indexingTime" : 14228300,
+      "contentLoadingVisibleTime" : 394791,
+      "creatingIteratorsTime" : 0,
+      "scanFilesTime" : 1368091800,
+      "pushPropertiesTime" : 0,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 5892779,
+      "updatingStart" : "2022-08-16T12:07:42.879447Z",
+      "updatingEnd" : "2022-08-16T12:07:44.265775Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 10,
+      "numberOfScannedFiles" : 43013,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 2,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 2
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 25460200,
+        "total" : 25460200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 728800,
+        "total" : 728800
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 16061,
+      "indexingSpeed" : {
+        "totalBytes" : 16061,
+        "totalTime" : 25460200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'transpose-matrix-skeleton' (transpose-matrix)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 16061,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 25460200,
+          "total" : 25460200
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "java.null.method.argument",
+      "partOfTotalIndexingTime" : {
+        "part" : 4267400,
+        "total" : 10619300
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 16061,
+      "indexingSpeed" : {
+        "totalBytes" : 16061,
+        "totalTime" : 4267400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 4242200,
+        "total" : 10619300
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 16061,
+      "indexingSpeed" : {
+        "totalBytes" : 16061,
+        "totalTime" : 4242200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "java.binary.plus.expression",
+      "partOfTotalIndexingTime" : {
+        "part" : 1110200,
+        "total" : 10619300
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 16061,
+      "indexingSpeed" : {
+        "totalBytes" : 16061,
+        "totalTime" : 1110200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "java.fun.expression",
+      "partOfTotalIndexingTime" : {
+        "part" : 999500,
+        "total" : 10619300
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 16061,
+      "indexingSpeed" : {
+        "totalBytes" : 16061,
+        "totalTime" : 999500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "JDK 11",
+      "numberOfScannedFiles" : 42195,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1057670200,
+      "scanningTime" : 1151825600,
+      "timeProcessingUpToDateFiles" : 689873000,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'transpose-matrix-skeleton' (transpose-matrix)",
+      "numberOfScannedFiles" : 7,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 2,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 16482500,
+      "scanningTime" : 92930200,
+      "timeProcessingUpToDateFiles" : 7596800,
+      "timeUpdatingContentLessIndexes" : 886000,
+      "timeIndexingWithoutContent" : 298500,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: org.junit.jupiter:junit-jupiter:5.7.1",
+      "numberOfScannedFiles" : 4,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 65854900,
+      "scanningTime" : 74611000,
+      "timeProcessingUpToDateFiles" : 9109900,
+      "timeUpdatingContentLessIndexes" : 122000,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: org.junit.jupiter:junit-jupiter-params:5.7.1",
+      "numberOfScannedFiles" : 345,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 42670500,
+      "scanningTime" : 44950600,
+      "timeProcessingUpToDateFiles" : 12074100,
+      "timeUpdatingContentLessIndexes" : 1307800,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: org.junit.jupiter:junit-jupiter-api:5.7.1",
+      "numberOfScannedFiles" : 157,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 31123000,
+      "scanningTime" : 37167300,
+      "timeProcessingUpToDateFiles" : 3254700,
+      "timeUpdatingContentLessIndexes" : 894900,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: org.junit.jupiter:junit-jupiter-engine:5.7.1",
+      "numberOfScannedFiles" : 118,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 20922400,
+      "scanningTime" : 21202900,
+      "timeProcessingUpToDateFiles" : 6600900,
+      "timeUpdatingContentLessIndexes" : 513600,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: org.opentest4j:opentest4j:1.2.0",
+      "numberOfScannedFiles" : 8,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 19103600,
+      "scanningTime" : 19675800,
+      "timeProcessingUpToDateFiles" : 84700,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: org.junit.platform:junit-platform-engine:1.7.1",
+      "numberOfScannedFiles" : 128,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 17127800,
+      "scanningTime" : 17406600,
+      "timeProcessingUpToDateFiles" : 9029500,
+      "timeUpdatingContentLessIndexes" : 476500,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: org.junit.platform:junit-platform-commons:1.7.1",
+      "numberOfScannedFiles" : 47,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 12700100,
+      "scanningTime" : 13209700,
+      "timeProcessingUpToDateFiles" : 1425300,
+      "timeUpdatingContentLessIndexes" : 727800,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: org.apiguardian:apiguardian-api:1.1.0",
+      "numberOfScannedFiles" : 4,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 10287000,
+      "scanningTime" : 10476400,
+      "timeProcessingUpToDateFiles" : 50800,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'transpose-matrix-skeleton' (transpose-matrix)",
+      "totalNumberOfIndexedFiles" : 2,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 13791799,
+      "contentLoadingVisibleTime" : 394791,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 5892779
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.5417003794157155
+  }
+}

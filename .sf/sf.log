@@ -1,0 +1,4 @@
+{"name":"sf","hostname":"HOME-PC","pid":9496,"level":60,"errno":-4058,"code":"ENOENT","syscall":"rename","path":"C:\\Users\\Andrew\\.sf\\sf.log.0","dest":"C:\\Users\\Andrew\\.sf\\sf.log.1","msg":"","time":"2022-11-12T10:03:06.437Z","v":0}
+{"name":"sf","hostname":"HOME-PC","pid":9496,"level":60,"errno":-4058,"code":"ENOENT","syscall":"rename","path":"C:\\Users\\Andrew\\.sf\\sf.log.0","dest":"C:\\Users\\Andrew\\.sf\\sf.log.1","msg":"","time":"2022-11-12T10:03:06.441Z","v":0}
+{"name":"sf","hostname":"HOME-PC","pid":9496,"level":60,"errno":-4058,"code":"ENOENT","syscall":"rename","path":"C:\\Users\\Andrew\\.sf\\sf.log.0","dest":"C:\\Users\\Andrew\\.sf\\sf.log.1","msg":"","time":"2022-11-12T10:03:06.438Z","v":0}
+{"name":"sf","hostname":"HOME-PC","pid":9496,"level":60,"errno":-4058,"code":"ENOENT","syscall":"rename","path":"C:\\Users\\Andrew\\.sf\\sf.log.0","dest":"C:\\Users\\Andrew\\.sf\\sf.log.1","msg":"","time":"2022-11-12T10:03:06.441Z","v":0}

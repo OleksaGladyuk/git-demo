@@ -1,0 +1,90 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="sprint-planning">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.epam.rd.autotasks</groupId>
+            <artifactId>sprint-planning</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <directory>C:/Users/Andrew/IdeaProjects/sprint-planning</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpDcmVhdGVkLUJ5OiBJbnRlbGxpSiBJREVBDQpCdWlsdC1CeTogQW5kcmV3DQpCdWlsZC1KZGs6IE9yYWNsZSBPcGVuSkRLIHZlcnNpb24gMTEuMC4xNQ0KDQo=</manifest>
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sprint-planning" />
+          <entry key="build.directory" value="C:\Users\Andrew\IdeaProjects\sprint-planning\target" />
+          <entry key="build.finalName" value="sprint-planning-1.0-SNAPSHOT" />
+          <entry key="build.location" value="33 : 12, com.epam.rd.autotasks:sprint-planning:1.0-SNAPSHOT C:\Users\Andrew\IdeaProjects\sprint-planning\pom.xml" />
+          <entry key="build.location.columnNumber" value="12" />
+          <entry key="build.location.lineNumber" value="33" />
+          <entry key="build.location.source" value="com.epam.rd.autotasks:sprint-planning:1.0-SNAPSHOT C:\Users\Andrew\IdeaProjects\sprint-planning\pom.xml" />
+          <entry key="build.location.source.location" value="C:\Users\Andrew\IdeaProjects\sprint-planning\pom.xml" />
+          <entry key="build.location.source.modelId" value="com.epam.rd.autotasks:sprint-planning:1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\Andrew\IdeaProjects\sprint-planning\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\Andrew\IdeaProjects\sprint-planning\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\Andrew\IdeaProjects\sprint-planning\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\Andrew\IdeaProjects\sprint-planning\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\Andrew\IdeaProjects\sprint-planning\src\test\java" />
+          <entry key="groupId" value="com.epam.rd.autotasks" />
+          <entry key="location" value="4 : 109, com.epam.rd.autotasks:sprint-planning:1.0-SNAPSHOT C:\Users\Andrew\IdeaProjects\sprint-planning\pom.xml" />
+          <entry key="location.columnNumber" value="109" />
+          <entry key="location.lineNumber" value="4" />
+          <entry key="location.source" value="com.epam.rd.autotasks:sprint-planning:1.0-SNAPSHOT C:\Users\Andrew\IdeaProjects\sprint-planning\pom.xml" />
+          <entry key="location.source.location" value="C:\Users\Andrew\IdeaProjects\sprint-planning\pom.xml" />
+          <entry key="location.source.modelId" value="com.epam.rd.autotasks:sprint-planning:1.0-SNAPSHOT" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="pomFile" value="C:\Users\Andrew\IdeaProjects\sprint-planning\pom.xml" />
+          <entry key="propertiesLocation" value="11 : 17, com.epam.rd.autotasks:sprint-planning:1.0-SNAPSHOT C:\Users\Andrew\IdeaProjects\sprint-planning\pom.xml" />
+          <entry key="propertiesLocation.columnNumber" value="17" />
+          <entry key="propertiesLocation.lineNumber" value="11" />
+          <entry key="propertiesLocation.source" value="com.epam.rd.autotasks:sprint-planning:1.0-SNAPSHOT C:\Users\Andrew\IdeaProjects\sprint-planning\pom.xml" />
+          <entry key="propertiesLocation.source.location" value="C:\Users\Andrew\IdeaProjects\sprint-planning\pom.xml" />
+          <entry key="propertiesLocation.source.modelId" value="com.epam.rd.autotasks:sprint-planning:1.0-SNAPSHOT" />
+          <entry key="reporting.outputDirectory" value="C:\Users\Andrew\IdeaProjects\sprint-planning\target\site" />
+          <entry key="reporting.outputDirectoryLocation" value="96 : 22, org.apache.maven:maven-model-builder:3.8.1:super-pom jar:file:/C:/Users/Andrew/Desktop/IntelliJ%20IDEA%20Community%20Edition%202022.1.3/plugins/maven/lib/maven3/lib/maven-model-builder-3.8.1.jar!/org/apache/maven/model/pom-4.0.0.xml" />
+          <entry key="reporting.outputDirectoryLocation.columnNumber" value="22" />
+          <entry key="reporting.outputDirectoryLocation.lineNumber" value="96" />
+          <entry key="reporting.outputDirectoryLocation.source" value="org.apache.maven:maven-model-builder:3.8.1:super-pom jar:file:/C:/Users/Andrew/Desktop/IntelliJ%20IDEA%20Community%20Edition%202022.1.3/plugins/maven/lib/maven3/lib/maven-model-builder-3.8.1.jar!/org/apache/maven/model/pom-4.0.0.xml" />
+          <entry key="reporting.outputDirectoryLocation.source.location" value="jar:file:/C:/Users/Andrew/Desktop/IntelliJ%20IDEA%20Community%20Edition%202022.1.3/plugins/maven/lib/maven3/lib/maven-model-builder-3.8.1.jar!/org/apache/maven/model/pom-4.0.0.xml" />
+          <entry key="reporting.outputDirectoryLocation.source.modelId" value="org.apache.maven:maven-model-builder:3.8.1:super-pom" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk-11.0.15.1" />
+          <entry key="java.version" value="Oracle OpenJDK version 11.0.15" />
+          <entry key="maven.compiler.source" value="11" />
+          <entry key="maven.compiler.target" value="11" />
+          <entry key="settings.localRepository" value="C:\Users\Andrew\.m2\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/Andrew/IdeaProjects/sprint-planning/src/main/resources</directory>
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/Andrew/IdeaProjects/sprint-planning/src/test/resources</directory>
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

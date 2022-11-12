@@ -1,0 +1,17 @@
+{
+    "cacheVersion": 2,
+    "fileHashCode": 90100,
+    "sha256": "1db74bdfe81a5aad8dbdf0a32ef5b4c1acf66cf71b9a2f0a39bcd27c3aad1c01",
+    "parsingAttempts": 3,
+    "projectName": "halving-carousel",
+    "dependencies": [
+        {
+            "coordinates": {
+                "groupId": "org.junit.jupiter",
+                "artifactId": "junit-jupiter",
+                "version": "5.8.2"
+            },
+            "scope": "test"
+        }
+    ]
+}

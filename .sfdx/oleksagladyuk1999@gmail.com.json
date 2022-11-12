@@ -1,0 +1,12 @@
+{
+  "username": "oleksagladyuk1999@gmail.com",
+  "accessToken": "3a304ad69eac350563aca9a4e3f1a13c2b58a9e2f523313a7b7caa215ad7930e4ed93859ec41860e45206da8cea8443866c677326bcc558f2b9ae47f224e13da85b78a93799ffa1d267044a51c2b7129e737f5f5f0f95c3230aedad519eefe307526c7e3c1d74b367b39c834c1d3308dbcbe70f10dd0:629c048faf9abc86327e7acf5b715d8c",
+  "instanceUrl": "https://redtag148-dev-ed.my.salesforce.com",
+  "orgId": "00D7Q000008O3ZvUAK",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "02f30894afce8f85a0c88c992906b69e34b72c0fca3291b6aa9f61f2c485aeff5373399340e92e35f688761a99d47aca6e67896cfe61ac869969d40ef7ddeeccde1ddc5900dbe7eb985ec4679f799a8e5981ce3d301996b0dfbecc5d0c:c5e7f025574aec8d76f7107fcc9bafd9",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "56.0",
+  "instanceApiVersionLastRetrieved": "12.10.2022, 13:11:44"
+}

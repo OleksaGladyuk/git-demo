@@ -1,0 +1,12 @@
+{
+  "username": "oleksagladyuk@resourceful-fox-p4z5p3.com",
+  "accessToken": "65479ccf6538df3d705a860fd455e6101cd19aa2bc1a369ac50c2099ed5b6433f49b868e943b041981f2e365046f1d666a8469b135dc2d36b103b0747f0b46cd4bb367371ffa6b00657a6f03e5cd6f1b82838461a1a13bf60534b9679cb319694221f7880519c3f1b3e656bea12df09b90913e646ed1:7cb0fe44bb9b2268759eb3397c92e3cb",
+  "instanceUrl": "https://resourceful-fox-p4z5p3-dev-ed.my.salesforce.com",
+  "orgId": "00D7R0000047BWTUA2",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "c50acd51575fe901f1511719f96034555be9febfa499bf8389ee4224b61875b12e20e327b26ffb1c49705476352158c7082ac09b1ce22544480b57e4db63deada7c012a7930f561293145e222d68b17bb3ce142fc855ed27170ca274d1:657053cd576e0dab11ca2cd290e50714",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "55.0",
+  "instanceApiVersionLastRetrieved": "02.10.2022, 12:14:43"
+}

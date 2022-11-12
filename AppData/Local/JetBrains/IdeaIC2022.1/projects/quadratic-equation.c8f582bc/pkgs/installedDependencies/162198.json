@@ -1,0 +1,33 @@
+{
+    "cacheVersion": 2,
+    "fileHashCode": 162198,
+    "sha256": "2e3ac62423c6bbb56cd4207a7205f63e7d59b808b4da3a5d48edc4e8f674b9ef",
+    "parsingAttempts": 3,
+    "projectName": "quadratic-equation",
+    "dependencies": [
+        {
+            "coordinates": {
+                "groupId": "org.junit.jupiter",
+                "artifactId": "junit-jupiter-engine",
+                "version": "5.6.2"
+            },
+            "scope": "test"
+        },
+        {
+            "coordinates": {
+                "groupId": "org.junit.jupiter",
+                "artifactId": "junit-jupiter-api",
+                "version": "5.6.2"
+            },
+            "scope": "test"
+        },
+        {
+            "coordinates": {
+                "groupId": "org.junit.jupiter",
+                "artifactId": "junit-jupiter-params",
+                "version": "5.6.2"
+            },
+            "scope": "test"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "cacheVersion": 2,
+    "fileHashCode": 109301,
+    "sha256": "12dc8ff643f065f08c169db3d6f974007076d31659b1be86343d86854d89dc89",
+    "parsingAttempts": 3,
+    "projectName": "LocalMaximaRemove",
+    "dependencies": [
+        {
+            "coordinates": {
+                "groupId": "org.junit.jupiter",
+                "artifactId": "junit-jupiter-api",
+                "version": "5.7.1"
+            }
+        }
+    ]
+}
